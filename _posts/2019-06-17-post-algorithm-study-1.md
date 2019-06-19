@@ -1,5 +1,5 @@
 ---
-title:  "2019-06-17 완전탐색과 재귀호출"
+title:  "완전탐색과 재귀호출"
 search: false
 categories: 
   - algorithm
