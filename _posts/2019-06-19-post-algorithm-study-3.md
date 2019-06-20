@@ -1,6 +1,6 @@
 ---
 title:  "문제: 게임판 덮기"
-search: false
+search: true
 categories: 
   - algorithm
 last_modified_at: 2019-06-19T10:00:00-12:00:00

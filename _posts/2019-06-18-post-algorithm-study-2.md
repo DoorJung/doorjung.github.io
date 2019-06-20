@@ -1,11 +1,11 @@
 ---
 title:  "문제: 소풍"
-search: false
+search: true
 categories: 
   - algorithm
 last_modified_at: 2019-06-18T10:00:00-12:00:00
 ---
-소풍
+문제: 소풍
 ===
 
 문제

@@ -1,6 +1,6 @@
 ---
 title:  "완전탐색과 재귀호출"
-search: false
+search: true
 categories: 
   - algorithm
 last_modified_at: 2019-06-17T10:00:00-12:00:00
