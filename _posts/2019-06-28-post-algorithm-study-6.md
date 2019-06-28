@@ -50,7 +50,7 @@ void pick(int n, vector<int>& picked, int toPick) {
 		picked.pop_back();
 	}
 }
-{% raw %}
+{% endraw %}
 ```
 
 2^n가지 경우의 수 만들기
